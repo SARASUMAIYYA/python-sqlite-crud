@@ -49,14 +49,20 @@ Follow the prompts to perform CRUD operations interactively.
 
 
 use viusal studio code
+
 Steps:
 #Installation
+
 Python
+
 SQL Lite
+
 SQL Lite Viewer( for viewing database)
 
 Clone repository
+
  Run the following command in the terminal
+ 
  python registration.py
 
 
