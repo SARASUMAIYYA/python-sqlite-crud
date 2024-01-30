@@ -48,9 +48,10 @@ Run the script using python registration.py.
 Follow the prompts to perform CRUD operations interactively.
 
 
-use viusal studio code
+Use viusal studio code
 
 Steps:
+
 #Installation
 
 Python
